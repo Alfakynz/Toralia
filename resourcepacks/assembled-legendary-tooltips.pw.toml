@@ -1,0 +1,13 @@
+name = "Assembled Legendary Tooltips"
+filename = "AssembledLegendaryTooltips-1.20.1-1.5.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/P6gDZwVp/versions/bvCXUCeH/AssembledLegendaryTooltips-1.20.1-1.5.0.zip"
+hash-format = "sha512"
+hash = "c99bd58b71770da120e620172b3d9fe144b4fdaa08e1514988139c8c41aa31f2da95054a936de7f3e3a82f56944d22d13a625d389f234b69dfaefe034a6cf636"
+
+[update]
+[update.modrinth]
+mod-id = "P6gDZwVp"
+version = "bvCXUCeH"

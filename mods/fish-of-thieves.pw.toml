@@ -1,0 +1,13 @@
+name = "Fish of Thieves"
+filename = "fish_of_thieves-mc1.20.1-v3.1.7-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5055ee276ff86e9eed4cc2c67271aad7b1c2d29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7132880
+project-id = 568372
