@@ -1,71 +1,78 @@
 [EMF] Entity Model Features [Fabric & Forge]
 [ETF] Entity Texture Features - [Fabric & Forge]
-Advancement Plaques [Neo/Forge]
-AllTheLeaks (Memory Leak Fix)
+Advancement Plaques [Fabric]
+AmbientSounds 6
 Amendments
 AppleSkin
 Assembled Legendary Tooltips
 Assembled Legendary Tooltips Compat
 AsyncParticles(Archived)
 BadOptimizations
-Ben's Sharks
-Canary
+Better Selection
+BetterF3
 Carry On
+Chat Heads
 Cloth Config API (Fabric/Forge/NeoForge)
 Complementary Shaders - Reimagined
 Connected Paths
 Continuity
 Controlling
+CreativeCore
 Cristel Lib
 Cubes Without Borders
-Embeddium
-Enhanced Boss Bars
+Dynamic FPS
+Dynamic Lights [Server] [Fabric/Quilt/Forge/NeoForge]
+Eating Animation [Fabric]
+Enhanced Block Entities
 Entity Culling Fabric/Forge
+Fabric API
+Fabric Language Kotlin
 Fast IP Ping
-FastQuit-Forge
-FerriteCore ((Neo)Forge)
+FastQuit
+FerriteCore (Fabric)
 Fish of Thieves
-Forgified Fabric API
+Free Inventory
 Fresh Animations
+Fresh Animations: Extensions
 Fzzy Config
-GeckoLib
-Iceberg [Neo/Forge]
+Gero's Backpacks!
+Iceberg [Fabric]
 ImmediatelyFast
 Immersive Armors [Fabric/Forge]
 Immersive Ores
-Just Zoom
-Konkrete
-Kotlin for Forge
-Legendary Tooltips [Neo/Forge]
+Iris Shaders
+Legendary Tooltips [Fabric]
+Lithium (Fabric/NeoForge)
 M.R.U
+MacOS Input Fixes
 Mandala's GUI - Dark mode
 Mandala's GUI - Dark mode Advancement Plaques Compat
+Mod Menu
 ModernFix
 Moonlight Lib
+MoreCulling
 Mouse Tweaks
 No More Pop-ups
 No Realms Button
 Nyf's Spiders
-Oculus
 Polymorph (Fabric/Forge/Quilt)
-Presence Footsteps (Forge)
-Prism [Neo/Forge]
+Presence Footsteps
+Prism [Fabric]
 Pufferfish's Biome Dither [Fabric & Forge & NeoForge]
-Quark
-Reforged (formerly Tiered)
+Reese's Sodium Options
 Remove Reloading Screen
 Searchables
 Simple Voice Chat
-Sinytra Connector
-Sodium/Embeddium Dynamic Lights
-Sodium/Embeddium Options API
-Sophisticated Backpacks
-Sophisticated Core
+Skin Layers 3D
+Smooth Scrolling
+Sodium
+Sodium Extra
 Sound Physics Remastered
 Sound​s
 Subtle Effects
 Supplementaries
+Text Placeholder API
 True Ending ~ Ender Dragon Overhaul
-UnionLib
 William Wythers' Expanded Ecosphere
-Zeta
+YetAnotherConfigLib
+Zoomify

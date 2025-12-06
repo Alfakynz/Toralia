@@ -1,13 +1,13 @@
 name = "Polymorph (Fabric/Forge/Quilt)"
-filename = "polymorph-forge-0.49.10+1.20.1.jar"
+filename = "polymorph-fabric-1.1.0+1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e4afd6f512cc06311320357ed974cee586e031c3"
+hash = "e4f9ec40058c07f263d19b21e438b5204ea4dc22"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6450982
+file-id = 6794587
 project-id = 388800

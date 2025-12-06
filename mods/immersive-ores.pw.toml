@@ -1,13 +1,13 @@
 name = "Immersive Ores"
-filename = "immersiveores-1.20.1-0.9.jar"
+filename = "ImmersiveOres-1.21.1-1.1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cce0cad80dcdcd9d8838a1838d777769f75643d4"
+hash = "16487913416790b8ee6d7eb3230bff9c44154d5a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7272377
+file-id = 7140604
 project-id = 876772
