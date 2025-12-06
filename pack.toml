@@ -1,13 +1,16 @@
 name = "Toralia"
 author = "Alfakynz"
-version = "1.0.0-a"
+version = "1.0.0-b"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4983d4b4588165bbc4d0b3ccbadf634a0b835e0004e88fffa8ee93114445225a"
+hash = "19b05f895d2780b1ebb72e5234e6449f67a30c60bb13dfdb5205a580c9db5c11"
 
 [versions]
-forge = "47.4.12"
-minecraft = "1.20.1"
+fabric = "0.18.1"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21"]
