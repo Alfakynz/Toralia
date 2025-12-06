@@ -1,6 +1,6 @@
 name = "Toralia"
 author = "Alfakynz"
-version = "1.0.0-a"
+version = "1.0.0-b"
 pack-format = "packwiz:1.1.0"
 
 [index]
