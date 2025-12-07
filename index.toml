@@ -18,11 +18,16 @@ hash = "718738ffebafacec5ba69a06721ffa41e1d0b47d1b39a6905c3b21639a12cdf5"
 
 [[files]]
 file = "modlist.md"
-hash = "2328e864501236c633ac9c9d45ead9dc446493d8fa52bffbac9fef78ee60434b"
+hash = "70a82ed19b56a6ec6509df12fb32cef3d8149a331ea81462c3389249f5ad6d2d"
 
 [[files]]
 file = "mods/advancement-plaques-fabric.pw.toml"
 hash = "1d6da31544d1275e86cad36399eb9bad49588a78436dc86fdf4b489767698730"
+metafile = true
+
+[[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "476e748871a05797e875dc1cd262902110365661a4cbe014bd34e6de9ed4a984"
 metafile = true
 
 [[files]]
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "5fe7e26e9534cf3d7829e8c4937c7b700d2084b6345aed901c1c3de9a80f49fa"
+metafile = true
+
+[[files]]
+file = "mods/c2me.pw.toml"
+hash = "512a9aa7d85f3cf154f36ac8e287889e5730088fe19b8eb0b1e9409ca2ba5756"
 metafile = true
 
 [[files]]
@@ -191,18 +201,23 @@ hash = "db9e913bf3d616453eda6a487e624c9a8708be57af5f596a6a0e7044ff021534"
 metafile = true
 
 [[files]]
-file = "mods/immersive-ores.pw.toml"
-hash = "75cd2b8277117e9792c242e48d162b593e6597b1f7eda7078bb2f6d9cf24b91a"
-metafile = true
-
-[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "b31e45972ba08291e168f9d93ed14d679a8799983b7bce7ca38faa795a85bf3a"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "f7c9c1bee75968286a4fb6a765f7cd0505fac90cac30a896f76215c1e6d4d8bd"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
 hash = "1c82d097cf9bb25109c5439e3676d7a26090d8679a1db98daa8dd1d52d32a88b"
+metafile = true
+
+[[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "0111e250e04a831514a49464405579fb36b4b8b61dc15928e15a2a805dc569a0"
 metafile = true
 
 [[files]]
@@ -256,6 +271,11 @@ hash = "8aecc1933ce47b6b68c7fe5bde311324fcff1f81fad51e27811e78f39ce0df15"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "75d42d0a0bcfbcce376fb229f72b75e3a40592fdff5490b997c19ef439a9c832"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "4450b4162b40ff483495103ed9646d5b65e8652876495b084473cfc7e29ece5a"
 metafile = true
@@ -286,6 +306,11 @@ hash = "6dff4b6eccb5ecca2c5b15bf8e24523298819839db487f02a65636c2fbe3fdd1"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "44a680557c1ab773a1121984e6ddb67c56eb043a1716a2ca1cdfa6cd3e855372"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "795a73207734f08e5cece4da342c509d2210787ea8f0df9ea7ee440719a53cf3"
 metafile = true
@@ -293,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "cd89a064793088be7a278645e2c0fadbd38cd59536146e0bf10f796fc4f163df"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "4fd9feb68cb218528c315e854abfe33934a34ab2a067e8f24b002075ceb1342b"
 metafile = true
 
 [[files]]
@@ -358,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-backpacks.pw.toml"
 hash = "5f436b48c6139aebb13a43c3476b4d32a415ecb5ac82d2074f343374fa2880f4"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "edc4eddf876b4429bf33ca8febbd4c8cec6a08de2ac4cfcffcf8d95861773b16"
 metafile = true
 
 [[files]]

@@ -1,6 +1,7 @@
 [EMF] Entity Model Features [Fabric & Forge]
 [ETF] Entity Texture Features - [Fabric & Forge]
 Advancement Plaques [Fabric]
+Almanac Lib
 AmbientSounds 6
 Amendments
 AppleSkin
@@ -14,6 +15,7 @@ Carry On
 Chat Heads
 Cloth Config API (Fabric/Forge/NeoForge)
 Complementary Shaders - Reimagined
+Concurrent Chunk Management Engine
 Connected Paths
 Continuity
 Controlling
@@ -39,9 +41,10 @@ Gero's Backpacks!
 Iceberg [Fabric]
 ImmediatelyFast
 Immersive Armors [Fabric/Forge]
-Immersive Ores
 Iris Shaders
+Krypton
 Legendary Tooltips [Fabric]
+Let Me Despawn
 Lithium (Fabric/NeoForge)
 M.R.U
 MacOS Input Fixes
@@ -55,13 +58,16 @@ Mouse Tweaks
 No More Pop-ups
 No Realms Button
 Nyf's Spiders
+Packet Fixer
 Polymorph (Fabric/Forge/Quilt)
 Presence Footsteps
 Prism [Fabric]
 Pufferfish's Biome Dither [Fabric & Forge & NeoForge]
 Reese's Sodium Options
 Remove Reloading Screen
+ScalableLux
 Searchables
+ServerCore
 Simple Voice Chat
 Skin Layers 3D
 Smooth Scrolling
@@ -73,6 +79,7 @@ Subtle Effects
 Supplementaries
 Text Placeholder API
 True Ending ~ Ender Dragon Overhaul
+Very Many Players (Fabric)
 William Wythers' Expanded Ecosphere
 YetAnotherConfigLib
 Zoomify
