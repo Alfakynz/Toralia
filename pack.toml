@@ -1,12 +1,12 @@
 name = "Toralia"
 author = "Alfakynz"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ce1ad71a7e2ada2bc11cdc3e1b40d3de87bf6dc5b942b736e1febb33879b7a94"
+hash = "a056d68610e242239d7a8edcafbc61f3e01baeb3e6ddde1e54d1e1f1ded647eb"
 
 [versions]
 fabric = "0.18.1"

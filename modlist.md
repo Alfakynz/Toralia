@@ -41,6 +41,7 @@ Gero's Backpacks!
 Iceberg [Fabric]
 ImmediatelyFast
 Immersive Armors [Fabric/Forge]
+InvMove
 Iris Shaders
 Krypton
 Legendary Tooltips [Fabric]
