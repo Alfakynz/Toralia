@@ -1,82 +1,99 @@
 # Toralia - Official Modpack Season 2
 
-A Vanilla+ Forge modpack focused on immersion, QoL, and performance.
-It expands the world with new creatures like sharks, and a wide variety of fishes, introduces fresh ores, immersive armor sets, backpacks, refined boss fights, and biome enhancements.
+A Vanilla+ Fabric modpack focused on immersion, QoL, and performance.
+It expands the world with new creatures like a wide variety of fishes, introduces fresh ores, immersive armor sets, backpacks, refined boss fights, and biome enhancements.
 Visual and audio improvements such as Fresh Animations, Complementary Shaders, Presence Footsteps, enhanced sound physics, dynamic lights, and smooth GUIs make the game feel richer without breaking the classic Minecraft atmosphere.
-On top of that, the modpack is heavily optimized with ModernFix, FerriteCore, Embeddium, AllTheLeaks, FastQuit, and many others to ensure excellent performance and quick loading, even with all the added features.
+On top of that, the modpack is heavily optimized with ModernFix, FerriteCore, Sodium, FastQuit, and many others to ensure excellent performance and quick loading, even with all the added features.
 
 <details>
   <summary>Modlist</summary>
 
 - [EMF] Entity Model Features [Fabric & Forge]
 - [ETF] Entity Texture Features - [Fabric & Forge]
-- Advancement Plaques [Neo/Forge]
-- AllTheLeaks (Memory Leak Fix)
+- Advancement Plaques [Fabric]
+- Almanac Lib
+- AmbientSounds 6
 - Amendments
 - AppleSkin
-- Assembled Legendary Tooltips
-- Assembled Legendary Tooltips Compat
 - AsyncParticles(Archived)
 - BadOptimizations
-- Ben's Sharks
-- Canary
+- Better Selection
+- BetterF3
 - Carry On
+- Chat Heads
 - Cloth Config API (Fabric/Forge/NeoForge)
 - Complementary Shaders - Reimagined
+- Concurrent Chunk Management Engine
+- Connected Bricks
 - Connected Paths
+- Connected Rocks
 - Continuity
 - Controlling
+- CreativeCore
 - Cristel Lib
+- Crystal Tooltips
 - Cubes Without Borders
-- Embeddium
-- Enhanced Boss Bars
+- Dynamic FPS
+- Dynamic Lights [Server] [Fabric/Quilt/Forge/NeoForge]
+- Eating Animation [Fabric]
+- Enhanced Block Entities
 - Entity Culling Fabric/Forge
+- Fabric API
+- Fabric Language Kotlin
 - Fast IP Ping
-- FastQuit-Forge
-- FerriteCore ((Neo)Forge)
+- FastQuit
+- FerriteCore (Fabric)
 - Fish of Thieves
-- Forgified Fabric API
+- Free Inventory
 - Fresh Animations
+- Fresh Animations: Extensions
 - Fzzy Config
-- GeckoLib
-- Iceberg [Neo/Forge]
+- Gero's Backpacks!
+- Iceberg [Fabric]
 - ImmediatelyFast
 - Immersive Armors [Fabric/Forge]
-- Immersive Ores
-- Just Zoom
-- Konkrete
-- Kotlin for Forge
-- Legendary Tooltips [Neo/Forge]
+- InvMove
+- Iris Shaders
+- Krypton
+- Legendary Tooltips [Fabric]
+- Let Me Despawn
+- Lithium (Fabric/NeoForge)
 - M.R.U
+- MacOS Input Fixes
 - Mandala's GUI - Dark mode
 - Mandala's GUI - Dark mode Advancement Plaques Compat
+- Mod Menu
 - ModernFix
 - Moonlight Lib
+- MoreCulling
 - Mouse Tweaks
 - No More Pop-ups
 - No Realms Button
 - Nyf's Spiders
-- Oculus
+- Packet Fixer
 - Polymorph (Fabric/Forge/Quilt)
-- Presence Footsteps (Forge)
-- Prism [Neo/Forge]
+- Presence Footsteps
+- Prism [Fabric]
 - Pufferfish's Biome Dither [Fabric & Forge & NeoForge]
-- Quark
-- Reforged (formerly Tiered)
+- Reese's Sodium Options
 - Remove Reloading Screen
+- ScalableLux
 - Searchables
+- ServerCore
 - Simple Voice Chat
-- Sinytra Connector
-- Sodium/Embeddium Dynamic Lights
-- Sodium/Embeddium Options API
-- Sophisticated Backpacks
-- Sophisticated Core
+- Skin Layers 3D
+- Smooth Scrolling
+- Sodium
+- Sodium Extra
 - Sound Physics Remastered
 - Sound​s
 - Subtle Effects
 - Supplementaries
+- Text Placeholder API
 - True Ending ~ Ender Dragon Overhaul
-- UnionLib
+- Very Many Players (Fabric)
 - William Wythers' Expanded Ecosphere
-- Zeta
+- YetAnotherConfigLib
+- Zoomify
+
 </details>

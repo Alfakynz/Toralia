@@ -5,8 +5,6 @@ Almanac Lib
 AmbientSounds 6
 Amendments
 AppleSkin
-Assembled Legendary Tooltips
-Assembled Legendary Tooltips Compat
 AsyncParticles(Archived)
 BadOptimizations
 Better Selection
@@ -16,11 +14,14 @@ Chat Heads
 Cloth Config API (Fabric/Forge/NeoForge)
 Complementary Shaders - Reimagined
 Concurrent Chunk Management Engine
+Connected Bricks
 Connected Paths
+Connected Rocks
 Continuity
 Controlling
 CreativeCore
 Cristel Lib
+Crystal Tooltips
 Cubes Without Borders
 Dynamic FPS
 Dynamic Lights [Server] [Fabric/Quilt/Forge/NeoForge]
