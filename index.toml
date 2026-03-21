@@ -56,6 +56,11 @@ hash = "e2f2a6f6ff38054ce8d91a43a20b79ea7b4e84cb924142fb7d2bcfdd95fe5b57"
 metafile = true
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "f793ba4347e69a3fdcb1f6c0f84f4f27e7e16d3c7e1f8023db9debb81f53183b"
+metafile = true
+
+[[files]]
 file = "mods/better-selection.pw.toml"
 hash = "5f13e2470d769f613652ff4378a31c86b5915fe67032c94c1be5aeed06610b4d"
 metafile = true
@@ -141,13 +146,18 @@ hash = "068520363709db9632207ee223dcdc9dc3a33b295806b07b0f4e6b0556b9009a"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "d8518de92c1b5e8d7dd66f259b157e402869234e10d9bf6d940ade5269b37e4f"
+metafile = true
+
+[[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 hash = "f698a4a614c690206631b2b14cd704313f14d3cb2513a5317afdab2ddad005ff"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0364a64e7f6515dccf92e10512c81178b7afeb1ae031f8024620892769e69313"
+hash = "cd98ddb3d38d3402b89ab669d423dbc199d70c4d655eaea615add89c30b95241"
 metafile = true
 
 [[files]]
@@ -216,6 +226,11 @@ hash = "f7c9c1bee75968286a4fb6a765f7cd0505fac90cac30a896f76215c1e6d4d8bd"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "26f3c572aaf4ad0303f12e4fa257cc4f34bc30f3e2ac1d1dc75f44632141876d"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
 hash = "1c82d097cf9bb25109c5439e3676d7a26090d8679a1db98daa8dd1d52d32a88b"
 metafile = true
@@ -227,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "4af07dd765be426fec46e72aa0a0b435b42d85bffe1ee87a100e661d881c90f2"
+hash = "ed460bde18481b52f05f69a87e40a5425affe3885d3b84ea16bf1979a494b5bc"
 metafile = true
 
 [[files]]
@@ -247,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0a294ec59f287931a4748716730aa3a5509a778bb5c39eab881f21bdfef273e5"
+hash = "6d8b7998b6dcbad5b89bd6d53b7f5f7dfedec11af1130a8b81fadb8b110dc504"
 metafile = true
 
 [[files]]
@@ -322,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "c6639db718ea971ef2506fffa11780b2ae30b0e2256f68cd2ba969b5ad15fb8e"
+hash = "2068f7e43e2340d719cb9fe76bb9d1a9d7677ce79f0c6f15df6a0eb2aa0425fb"
 metafile = true
 
 [[files]]
@@ -337,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "bd4cfd8701633c013cacde0c311a24261020abdce657e3760166d6af8660f745"
+hash = "06471b7032236f32140726ebb4e0f88abc6102fed270927cf4be5953cc281771"
 metafile = true
 
 [[files]]
@@ -367,12 +382,12 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "87f0c2e2375209d074e05608e47f71bebece1955065b2b523576353cbb5f0b67"
+hash = "07ae909efa3df40c985aecd542d29c289da90f9c068c261e5aa3e490e17808e1"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0ee2813f3ef4e2d1226b9bf4caf71b846dfc0ac6cd58276d1c1416e33607d29c"
+hash = "2cf0fb10e89b619b190a49f1cf68af50b6b4082fea0d28c32327faaafa9a3330"
 metafile = true
 
 [[files]]
@@ -412,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d286fd055bced60b052dc0433d33854c0c46317870c1f95bd726631e0c2d3211"
+hash = "8ee485bbccd9e2d5a54dbd9cc389c09feead2482d0b0f90aef88a52daf2a5d52"
 
 [[files]]
 file = "resourcepacks/connected-bricks.pw.toml"
@@ -431,17 +446,17 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/crystal-tooltips.pw.toml"
-hash = "1915e613b09d0ef21ef55dc82a3c9f84f1be0a5004b78ecf4754c81423f0587f"
+hash = "7dcaef9c08c50d0cfccff04871ba2f07646b9c26307547b5b14aa5105eed2673"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "3742efd536b417560395d9aab9643e2a97c105a60fd7f37c9a825024c7479359"
+hash = "31b83961fa840a616da6be81c814fca8e6a3807a8203d17b027ddb044e3714cc"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "72b919a0242253a1540a0fa424ea5a652787365186ac9f5fa5a67583bb5d368c"
+hash = "da66421a2a0dcab59fc4b17705b0aae4cd88b20634ebea20b0224fee2bef8251"
 metafile = true
 
 [[files]]
